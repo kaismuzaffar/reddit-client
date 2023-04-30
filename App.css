@@ -1,0 +1,9 @@
+.App {
+  background-color: white;
+  font-family: Calibri, "Gill Sans", sans-serif;
+}
+
+.main {
+  display: flex;
+  flex-flow: row;
+}
